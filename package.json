@@ -1,0 +1,26 @@
+{
+  "name": "tounduxbot",
+  "version": "1.0.0",
+  "description": "Bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marwanezhd/TounduxBot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Marwane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marwanezhd/TounduxBot/issues"
+  },
+  "homepage": "https://github.com/marwanezhd/TounduxBot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
